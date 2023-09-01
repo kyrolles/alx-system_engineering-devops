@@ -1,2 +1,2 @@
-#!/ban/bash
+#!/bin/bash
 chmod 700 hello

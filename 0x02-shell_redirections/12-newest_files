@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -snew | head
+ls -t | head

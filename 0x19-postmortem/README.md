@@ -1,3 +1,7 @@
+## Postmortem: When Debugging Went Down in Flames (Literally)
+
+![DALL·E 2024-08-18 22 54 20 - A cartoon-style image of a server room in chaos  Servers are overheating with exaggerated steam and sparks flying out  An engineer is frantically tryi](https://github.com/user-attachments/assets/055796c6-7fe6-48f5-8822-6404f0fd9201)
+
 Issue Summary
 Duration of the Outage: 3 hours and 45 minutes of utter chaos, from 1:15 PM to 5:00 PM UTC on August 18, 2024.
 Impact: Our beloved Web Debugging Service (WDS) turned into a slow-motion disaster movie. Users experienced enough latency to rival dial-up speeds, with real-time debugging sessions crawling like a snail on a treadmill. Around 70% of users were left banging their keyboards in frustration.
